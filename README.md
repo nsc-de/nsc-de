@@ -1,4 +1,4 @@
-<img src="./github-metrics.svg" style="width:100%"></img>
+<img src="./github-metrics.svg"></img>
 
 ### My Teams
 
