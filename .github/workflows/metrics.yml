@@ -40,7 +40,6 @@ jobs:
           plugin_projects_descriptions: yes
           plugin_projects_limit: 4
           plugin_languages: yes
-          plugin_licenses: yes
           plugin_contributors: yes
           plugin_achievements: yes
           plugin_code: no
@@ -48,3 +47,6 @@ jobs:
           plugin_topics: yes
           plugin_topics_limit: 0
           plugin_topics_mode: icons
+          plugin_licenses: yes
+          plugin_licenses_setup: npm ci
+          plugin_licenses_ratio: yes
