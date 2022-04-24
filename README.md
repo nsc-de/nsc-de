@@ -3,6 +3,7 @@
 ### My Organisations
 
 [![shakelang][projects/shakelang/avatar]][projects/shakelang/github]
+[![screateam][projects/screateam/avatar]][projects/screateam/github]
 
 <!-- Member  Avatars: -->
 
@@ -11,4 +12,5 @@
 
 <!-- Member GitHub accounts -->
 
+[projects/shakelang/github]: https://github.com/shakelang/
 [projects/screateam/github]: https://github.com/screateam/
