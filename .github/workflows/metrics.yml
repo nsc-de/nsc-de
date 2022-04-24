@@ -45,3 +45,6 @@ jobs:
           plugin_achievements: yes
           plugin_code: no
           plugin_achievements_limit: 10
+          plugin_topics: yes
+          plugin_topics_limit: 0
+          plugin_topics_mode: icons
