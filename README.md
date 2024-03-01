@@ -22,7 +22,7 @@
       <img src="https://github.com/shakelang.png?size=512" width="12px" height="12px"/>
       shakelang
     </a>
-    - A object-oriented programming language (see <a href="https://shakelang.github.io/">https://shakelang.github.io/</a>)
+    - An object-oriented programming language (see <a href="https://shakelang.com/">https://shakelang.com/</a>)
   </li>
   <li>
     <a href="https://github.com/screateam">
