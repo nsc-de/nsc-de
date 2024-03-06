@@ -5,7 +5,7 @@
 - 🌱 I've seen quite a lot of stuff, but I am always interested in something new
 - 💞️ I'm maintaining a few open source projects written in different languages and environments
 - 🍹 My biggest project is [shake](https://shakelang.com) ([@shakelang](https://github.com/shakelang)), an open-source object oriented, modern programming language
-- 📫 Contact me via `contact@nscde.com` 📨
+- 📫 Contact me via [`contact@nscde.com`](mailto:contact@nscde.com) 📨
 - 🇺🇦 Stand with Ukraine! 🕊️
 
 
