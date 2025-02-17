@@ -2655,7 +2655,7 @@ actions: release</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Developer
-                                    <span class="gh">ranked 3.55m out of 156m users</span>
+                                    <span class="gh">ranked 3.56m out of 156m users</span>
                                 </div>
                                 <div class="text">Published 19 public repositories</div>
                             </div>
@@ -2936,7 +2936,7 @@ actions: release</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 17 Feb 2025, 16:20:27 (timezone Europe/Berlin) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 17 Feb 2025, 17:23:40 (timezone Europe/Berlin) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
